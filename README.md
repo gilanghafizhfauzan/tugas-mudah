@@ -19,3 +19,11 @@ public class tugaskl {
         input.close();
     }
 }
+Program meminta pengguna memasukkan satu bilangan (angka).
+Menggunakan operasi modulus (% 2) untuk mengecek sisa bagi 2:
+Jika angka % 2 == 0 → bilangan genap.
+Jika tidak → bilangan ganjil.
+Hasilnya ditampilkan ke layar.
+Scanner ditutup dengan input.close().
+
+
